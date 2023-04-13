@@ -1,0 +1,23 @@
+body {
+  background-color: lightgrey;
+}
+h1 {
+  text-align: center;
+}
+div {
+  background-color: paleturquoise;
+  margin: 0 auto;
+  padding: 120px;
+  height: 300px;
+  width: 250px;
+  border: 1px solid beige;
+}
+button {
+  color: black;
+  border-radius: 30px;
+  border: 1px solid gray;
+  background-color: white;
+}
+button:hover {
+  color: brown;
+}
