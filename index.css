@@ -74,6 +74,10 @@ header main section h1 .name {
 header main section span {
   color: blue;
 }
+button a {
+  text-decoration: none;
+  color: white;
+}
 
 main section button {
   width: 100px;
